@@ -47,7 +47,7 @@ proxies:
       headers:
         Host: tn1r.eu.cc
     udp: true
-		
+
   - name: SGMELBI
     server: 104.17.3.81
     port: 443
