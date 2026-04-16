@@ -78,13 +78,7 @@ proxy-groups:
     interval: 300
     proxies:
       - SGMELBI
-
-  - name: IKLAN
-    type: select
-    proxies:
-     - MIX-X
-     - REJECT
-
+      
   - name: GAME
     type: select
     proxies:
